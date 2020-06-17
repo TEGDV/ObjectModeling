@@ -5,8 +5,8 @@ as a practice or the course https://platzi.com/clases/python/
 
 ## Program functions
 
-    At start the software ask you if you want to create a character like a video game avatar creation menu write "no" if you want to exit
-    or press any other key to start you character creation.
+    At start the software ask you if you want to create a character like a video game avatar 
+    creation menu write "no" if you want to exit or press any other key to start you character creation.
 
     Then the software ask you for the follow data:
 
